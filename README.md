@@ -4,9 +4,9 @@
 
 # members
  
- - **Frontend** : 오제훈, 조수영, 김병규, 송동현 
+ - **Frontend** : [오제훈](https://github.com/jhoh0315), [조수영](https://github.com/suykr), [김병규](https://github.com/bbgyu220), [송동현](https://github.com/dong-h) 
 
- - **Backend** : 이동주
+ - **Backend** : [이동주](https://github.com/movingju)
 
 # Main Theme
  
